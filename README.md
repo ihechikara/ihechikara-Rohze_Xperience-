@@ -1,4 +1,4 @@
-# ihechikara-Rohze_Xperience-
-Rohze_Xperience is a simple portfolio website designed with Tailwind CSS and deployed on firebase
+# Rohzexperience
+Rohzexperience is a simple portfolio website for a gift consultation, packaging and delivery service with information on their delivery hours and contact informations. Designed with Tailwind CSS and deployed on firebase
 
 https://rohzexperience-service.web.app/
